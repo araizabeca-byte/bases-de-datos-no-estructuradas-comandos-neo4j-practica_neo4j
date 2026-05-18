@@ -22,8 +22,6 @@ MATCH (p:Profesor)-[:IMPARTE]->(m:Materia)
 
 RETURN p.nombre AS profesor, m.nombre AS materia;
  
-04_operaciones crud
- 
 // 1. CREATE
  
 CREATE (e:Estudiante {
