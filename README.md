@@ -131,6 +131,18 @@ Para cada archivo CSV:
 Raw
 ```
 
+https://raw.githubusercontent.com/clasesfestrada/bases-de-datos-no-estructuradas-comandos-neo4j-practica_neo4j/refs/heads/main/data/amistades.csv
+
+https://raw.githubusercontent.com/clasesfestrada/bases-de-datos-no-estructuradas-comandos-neo4j-practica_neo4j/refs/heads/main/data/estudiantes.csv
+
+https://raw.githubusercontent.com/clasesfestrada/bases-de-datos-no-estructuradas-comandos-neo4j-practica_neo4j/refs/heads/main/data/imparticiones.csv
+
+https://raw.githubusercontent.com/clasesfestrada/bases-de-datos-no-estructuradas-comandos-neo4j-practica_neo4j/refs/heads/main/data/inscripciones.csv
+
+https://raw.githubusercontent.com/clasesfestrada/bases-de-datos-no-estructuradas-comandos-neo4j-practica_neo4j/refs/heads/main/data/materias.csv
+
+https://raw.githubusercontent.com/clasesfestrada/bases-de-datos-no-estructuradas-comandos-neo4j-practica_neo4j/refs/heads/main/data/profesores.csv
+
 3. Copiar la URL.
 
 Ejemplo:
